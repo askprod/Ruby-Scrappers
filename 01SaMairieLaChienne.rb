@@ -1,7 +1,6 @@
 require 'rubygems'
 require 'nokogiri'         
 require 'open-uri'
-require './emails.txt'
 
 # Workflow:
 # Chopper les villes
